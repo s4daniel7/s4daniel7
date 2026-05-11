@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/main/charpng.jpg" alt="character"/>
+<img align="right" width="240px" src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/main/HD-wallpaper-hunter-x-hunter-black-and-white-gon-killua.jpg" alt="character"/>
 
 <br clear="right"/>
 
