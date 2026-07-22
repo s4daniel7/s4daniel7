@@ -1,122 +1,148 @@
-<!-- BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/main/bannerjpg.jpg" width="100%" alt="banner"/>
-</div>
-
-<!-- TITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4daniel/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E5B8A&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Daniel+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Construindo+produtos+SaaS+do+zero;Backend+%2B+Arquitetura+%2B+Experi%C3%AAncia+do+usu%C3%A1rio" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4daniel/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4daniel7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmartinsc2007@gmail.com)
 
 </div>
 
-<br/>
+<br>
+
+## Sobre mim
+
+Sou estudante de Ciência da Computação e desenvolvedor Full Stack em construção — no sentido literal: aprendo escrevendo software real, não só exercícios. Meu foco está em backend, arquitetura de sistemas e produtos SaaS, com atenção especial a como cada decisão técnica se traduz em experiência para quem usa o produto.
+
+Meu projeto principal, o **Fluxo Fácil**, é um SaaS financeiro multiempresa em produção — arquitetado, desenvolvido e mantido por mim, do modelo de dados ao deploy. É onde aplico (e erro, e corrijo) tudo que estudo sobre backend, banco de dados e segurança em um contexto real, com usuários reais.
+
+Meu objetivo de médio prazo é atuar como desenvolvedor Full Stack em um time de engenharia sério, e de longo prazo, construir produtos digitais próprios com padrão internacional.
+
+<br>
+
+## 🚀 Atualmente
+
+- 🎓 Cursando **Ciência da Computação**
+- 🛠️ Desenvolvendo e evoluindo o **Fluxo Fácil**, meu SaaS financeiro em produção
+- 📚 Aprofundando conhecimento em **backend, arquitetura de software e banco de dados**
+- 🧱 Estudando padrões de **sistemas multi-tenant** e boas práticas para produtos SaaS escaláveis
+- 🌍 Construindo, aos poucos, uma base técnica com padrão de mercado internacional
+
+<br>
+
+## 🧰 Tecnologias
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Projeto em destaque — Fluxo Fácil
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=s4daniel7&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+### 💸 Fluxo Fácil
+**SaaS de gestão financeira multiempresa para pequenos negócios**
+
+[![Repositório](https://img.shields.io/badge/Repositório-Ver%20no%20GitHub-2E5B8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4daniel7/FluxoFacil)
+
+<img src="https://via.placeholder.com/800x420?text=Fluxo+F%C3%A1cil+%E2%80%94+Demo" alt="Fluxo Fácil — demonstração" width="80%">
 
 </div>
 
----
+Plataforma SaaS que centraliza fluxo de caixa, controle de estoque e gestão financeira de pequenos negócios em um dashboard único, com **arquitetura multi-tenant** — múltiplas empresas operando na mesma instância, com isolamento total de dados entre clientes.
 
-**Full-Stack Developer**
+**Stack:** Python · Flask · SQLAlchemy · PostgreSQL · Supabase · HTML/CSS/JavaScript · PWA
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+**Diferenciais técnicos:**
+- 🏢 Multiempresa real, com dados particionados por `empresa_id`/`filial_id`
+- 🔐 Segurança aplicada — proteção CSRF, validação de dados, controle de acesso por empresa
+- 📊 Dashboard financeiro com indicadores em tempo real
+- 📦 Controle de estoque integrado às vendas
+- 📱 PWA instalável, mobile-first
+- ☁️ Em produção, com clientes reais utilizando o sistema
 
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+<br>
 
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
+## 🗂️ Outros projetos
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/main/HD-wallpaper-hunter-x-hunter-black-and-white-gon-killua.jpg" alt="character"/>
+**[ContratatechV2](https://github.com/s4daniel7/ContratatechV2)** — Landing page responsiva construída em HTML, CSS e JavaScript puro, com foco em apresentação de produto e conversão.
 
-<br clear="right"/>
+<br>
 
-
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
-
----
-
-## Technologies
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+<img src="https://github-readme-stats.vercel.app/api?username=s4daniel7&show_icons=true&theme=default&title_color=2E5B8A&icon_color=2E5B8A&text_color=333333&bg_color=ffffff&border_color=e1e4e8&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://streak-stats.demolab.com?user=s4daniel7&theme=default&ring=2E5B8A&fire=2E5B8A&currStreakLabel=2E5B8A&background=ffffff&border=e1e4e8" alt="GitHub Streak" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daniel7&layout=compact&theme=default&title_color=2E5B8A&text_color=333333&bg_color=ffffff&border_color=e1e4e8" alt="Top Languages" height="165">
 
 </div>
 
----
+<br>
 
-## Statistics
+## 📈 Gráfico de contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=s4daniel7&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=s4daniel7&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daniel7&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições" width="90%">
 
 </div>
 
----
+> *Gerado automaticamente via GitHub Action ([Platane/snk](https://github.com/Platane/snk)) — configure a action no repositório `s4daniel7/s4daniel7` para ativar.*
 
-## 📜 Contribution Graph
+<br>
+
+## 📬 Contato
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s4daniel7&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/s4daniel7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-s4daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4daniel/)
+[![GitHub](https://img.shields.io/badge/GitHub-s4daniel7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4daniel7)
+[![Gmail](https://img.shields.io/badge/Email-danielmartinsc2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmartinsc2007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Em%20breve-2E5B8A?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
----
-
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | COMPUTER SCIENCES | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
-
----
-
-## 🗡️ Featured Projects
+<br>
 
 <div align="center">
-
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=s4daniel7&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/s4daniel7/FluxoFacil)
-
-</div>
-
----
-
-<div align="center">
-
-*† Seek Paleblood to transcend the Hunt †*
-
+<sub>Construindo, um commit de cada vez. 🚀</sub>
 </div>
