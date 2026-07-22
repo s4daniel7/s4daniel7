@@ -1,0 +1,21 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # roda todo dia às 6h UTC
+  workflow_dispatch: {}    # permite rodar manualmente pela aba Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: jstrieb/github-stats@master
+        with:
+          username: s4daniel7
+          exclude_repos: ""
+          exclude_langs: ""
+        env:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: s4daniel7
