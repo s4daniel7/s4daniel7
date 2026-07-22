@@ -109,12 +109,14 @@ Plataforma SaaS que centraliza fluxo de caixa, controle de estoque e gestão fin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s4daniel7&show_icons=true&theme=default&title_color=2E5B8A&icon_color=2E5B8A&text_color=333333&bg_color=ffffff&border_color=e1e4e8&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/main/generated/overview.svg" alt="GitHub Stats" width="45%">
+<img src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/main/generated/languages.svg" alt="Top Languages" width="45%">
+
 <img src="https://streak-stats.demolab.com?user=s4daniel7&theme=default&ring=2E5B8A&fire=2E5B8A&currStreakLabel=2E5B8A&background=ffffff&border=e1e4e8" alt="GitHub Streak" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daniel7&layout=compact&theme=default&title_color=2E5B8A&text_color=333333&bg_color=ffffff&border_color=e1e4e8" alt="Top Languages" height="165">
-
 </div>
+
+> *Os cards de stats/linguagens são gerados via GitHub Action ([jstrieb/github-stats](https://github.com/jstrieb/github-stats)) — configure o workflow no repositório `s4daniel7/s4daniel7` para ativá-los. É mais estável que a API pública `github-readme-stats.vercel.app`, que está fora do ar por tempo indeterminado.*
 
 <br>
 
