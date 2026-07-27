@@ -19,9 +19,9 @@
 
 ## About
 
-I'm an 18-year-old Computer Science student at **Universidade Católica de Brasília**, and the sole developer behind **[FluxoFácil](https://github.com/s4daniel7/fluxofacil-landing)** — a multi-tenant financial SaaS platform running in production with real clients. I learn by shipping: instead of stopping at tutorials, I turn ideas into deployed products, then keep refactoring them toward professional standards.
+I'm an 18-year-old Computer Science student at **Universidade Católica de Brasília**, and the sole developer behind **[FluxoFácil](https://github.com/s4daniel7/fluxofacil-landing)** , a multi-tenant financial SaaS platform running in production with real clients. I learn by shipping: instead of stopping at tutorials, I turn ideas into deployed products, then keep refactoring them toward professional standards.
 
-Right now I'm focused on backend engineering — APIs, architecture, databases — with a growing interest in applying AI to real products. I'm looking for my first opportunity as a **Backend / Full Stack Developer**.
+Right now I'm focused on backend engineering (APIs, architecture, databases) with a growing interest in applying AI to real products. I'm looking for my first opportunity as a **Backend / Full Stack Developer**.
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ Right now I'm focused on backend engineering — APIs, architecture, databases �
 <td width="50%" valign="top">
 <h3>💰 FluxoFácil</h3>
 
-Multi-tenant financial management SaaS — cash flow, dashboards, inventory, expenses and reports for small businesses. **Live, in production, with real clients.**
+Multi-tenant financial management SaaS, cash flow, dashboards, inventory, expenses and reports for small businesses. **Live, in production, with real clients.**
 
 <code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>PWA</code>
 
@@ -191,7 +191,7 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 <div align="center">
 
-**Open to Backend / Full Stack opportunities — let's talk.**
+**Open to Backend / Full Stack opportunities, let's talk.**
 
 <a href="https://linkedin.com/in/s4daniel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/s4daniel7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
