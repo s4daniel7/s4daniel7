@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/s4daniel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/s4daniel7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:danielmartinsc2007@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=s4daniel7&style=flat-square&color=A78BFA&label=views" />
 
 </div>
@@ -19,9 +19,9 @@
 
 ## About
 
-I'm an 18-year-old Computer Science student at **Universidade Católica de Brasília**, and the sole developer behind **[FluxoFácil](https://github.com/s4daniel7/fluxofacil-landing)** , a multi-tenant financial SaaS platform running in production with real clients. I learn by shipping: instead of stopping at tutorials, I turn ideas into deployed products, then keep refactoring them toward professional standards.
+I'm an 18-year-old Computer Science student at **Universidade Católica de Brasília**, and the sole developer behind **[FluxoFácil](https://github.com/s4daniel7/fluxofacil-landing)** — a multi-tenant financial SaaS platform running in production with real clients. I learn by shipping: instead of stopping at tutorials, I turn ideas into deployed products, then keep refactoring them toward professional standards.
 
-Right now I'm focused on backend engineering (APIs, architecture, databases) with a growing interest in applying AI to real products. I'm looking for my first opportunity as a **Backend / Full Stack Developer**.
+Right now I'm focused on backend engineering — APIs, architecture, databases — with a growing interest in applying AI to real products. I'm looking for my first opportunity as a **Backend / Full Stack Developer**.
 
 <table>
 <tr>
@@ -52,7 +52,13 @@ Right now I'm focused on backend engineering (APIs, architecture, databases) wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,postgres,js,html,css,git,github,vscode,render,supabase,vercel&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,js,html,css,git,github,vscode,supabase,vercel&theme=dark&perline=6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Antigravity-A78BFA?style=flat-square" />
 
 </div>
 
@@ -60,6 +66,10 @@ Right now I'm focused on backend engineering (APIs, architecture, databases) wit
 
 `REST APIs` · `JWT Auth` · `MVC` · `Multi-Tenant Architecture` · `PWA` · `Clean Code` · `Responsive Design`
 
+</div>
+
+<div align="center">
+<sub>AI-assisted workflow — Claude, Claude Code &amp; Antigravity as part of how I build and ship</sub>
 </div>
 
 <br/>
@@ -71,7 +81,7 @@ Right now I'm focused on backend engineering (APIs, architecture, databases) wit
 <td width="50%" valign="top">
 <h3>💰 FluxoFácil</h3>
 
-Multi-tenant financial management SaaS, cash flow, dashboards, inventory, expenses and reports for small businesses. **Live, in production, with real clients.**
+Multi-tenant financial management SaaS — cash flow, dashboards, inventory, expenses and reports for small businesses. **Live, in production, with real clients.**
 
 <code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>PWA</code>
 
@@ -127,25 +137,24 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s4daniel7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s4daniel7&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&area_color=A78BFA" width="100%"/>
 
-</div>
+<br/>
 
-<!-- 🐍 Contribution snake — enable by adding .github/workflows/snake.yml
-     with the public action Platane/snk, then uncomment below.
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/s4daniel7/s4daniel7/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
--->
+<sub>⚙️ Snake animation is generated automatically once a day by a GitHub Action — see setup note at the end of this file.</sub>
 
 <!-- WakaTime weekly coding breakdown — requires a WakaTime account
-     connected via GitHub Actions. Uncomment once configured.
+     connected via GitHub Actions. To enable, remove this comment wrapper
+     and add the marker pair START_SECTION:waka / END_SECTION:waka
+     (with HTML comment brackets) on their own lines below.
 
 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 -->
 
@@ -174,7 +183,7 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 ## 2026 Roadmap
 
-- [x] Ship a real SaaS product end-to-end  **FluxoFácil**
+- [x] Ship a real SaaS product end-to-end — **FluxoFácil**
 - [ ] Land my first Backend / Full Stack role
 - [ ] Bring FluxoFácil's security & architecture to production-grade standards
 - [ ] Learn Docker and containerize my projects
@@ -185,18 +194,56 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
 <div align="center">
 
-**Open to Backend / Full Stack opportunities, let's talk.**
+**Open to Backend / Full Stack opportunities — let's talk.**
 
 <a href="https://linkedin.com/in/s4daniel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/s4daniel7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:danielmartinsc2007@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+
+<!--
+🐍 SNAKE ANIMATION — ONE-TIME SETUP (do this in the s4daniel7/s4daniel7 repo)
+
+1. Create the file .github/workflows/snake.yml with the content below.
+2. Push it to the default branch. It runs once immediately and then daily at 00:00 UTC.
+3. It writes to a branch called "output" — that's what the <img> above points to.
+
+--- .github/workflows/snake.yml ---
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: s4daniel7
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+--- end of file ---
+-->
