@@ -147,16 +147,11 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 
 
-<!-- WakaTime weekly coding breakdown — requires a WakaTime account
-     connected via GitHub Actions. To enable, remove this comment wrapper
-     and add the marker pair START_SECTION:waka / END_SECTION:waka
-     (with HTML comment brackets) on their own lines below.
 
-**Weekly development breakdown**
 START_SECTION:waka
 END_SECTION:waka
 
--->
+
 
 <!-- Spotify "now playing" — requires linking Spotify via novatorem/spotify-github-profile.
 <div align="center"><img src="https://novatorem.vercel.app/api/spotify" /></div>
