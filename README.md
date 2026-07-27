@@ -153,9 +153,9 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 
 
-<!-- Spotify "now playing" — requires linking Spotify via novatorem/spotify-github-profile.
+
 <div align="center"><img src="[https://novatorem.vercel.app/api/spotify](https://spotify-github-profile.kittinanx.com/api/callback?code=AQCdAsv0vmPkUZ3V6KIzGCpd9lu81MTXp2eYbiMW280wmce6KBcBe463XfOUZj3VCxt1G65PmPXBr-ogyMZw119B7yecBnE6oB3O8l0an4AuG5Jo9RTkwi3-BokUMqTLhKC2vyuxwUPLJNcj0KXvTjZWvEFMqYECTNgtsRlUFAPry300sRYG9C0Ri_ndu9sFnp_EuaHrCzVzRwyZKwUGNR1AlgK7xA9UGRrFO_Xb-FprYDA6mnmmpoYrMzeb7caxWI6JV6uXXiVqcyNwXzbo-uA0tKpsg-V0UBWYJmEYH3pWOX2syc5VgFF7v22trSKxp84uiI3Ym7cIvpd5&ubi=CAIQwr6ZkPozGiQ2OWVhM2YzZC1hNTliLTQzMWUtYTc3OC1iMjJlYzdmODQ3NjEiJGE3ZTAwYTRkLTNlYjktNGU0Mi1iNTlkLWMzZmY2ODFkYTA3ODokYTdlMDBhNGQtM2ViOS00ZTQyLWI1OWQtYzNmZjY4MWRhMDc4QhB1c2VyX2ludGVyYWN0aW9uSiRjN2ExYzc0ZC0zZDFlLTQ2ODItYTgxYi02Mzk0YjlkYjI2MzJQAQ%3D%3D)" /></div>
--->
+
 
 <!-- Discord presence — requires a Lanyard-connected Discord account.
 <div align="center"><img src="https://lanyard-profile-readme.vercel.app/api/DISCORD_USER_ID?theme=dark&bg=0D1117" /></div>
