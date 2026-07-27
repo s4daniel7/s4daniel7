@@ -145,7 +145,7 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 </div>
 
-<sub>⚙️ Snake animation is generated automatically once a day by a GitHub Action — see setup note at the end of this file.</sub>
+
 
 <!-- WakaTime weekly coding breakdown — requires a WakaTime account
      connected via GitHub Actions. To enable, remove this comment wrapper
