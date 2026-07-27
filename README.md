@@ -174,7 +174,7 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 ## 2026 Roadmap
 
-- [x] Ship a real SaaS product end-to-end — **FluxoFácil**
+- [x] Ship a real SaaS product end-to-end  **FluxoFácil**
 - [ ] Land my first Backend / Full Stack role
 - [ ] Bring FluxoFácil's security & architecture to production-grade standards
 - [ ] Learn Docker and containerize my projects
@@ -185,7 +185,7 @@ An intelligent financial system exploring how applied AI can surface smarter ins
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* John Johnson
 
 <br/>
 
