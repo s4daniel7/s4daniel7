@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=Daniel%20Martins%20Costa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20in%20the%20making%20%E2%80%94%20building%20real%20software,%20not%20just%20tutorials&descAlignY=60&descSize=16&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=Daniel%20Martins%20Costa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20in%20training,%20building%20real%20software,%20not%20just%20tutorials&descAlignY=60&descSize=16&fontFamily=Poppins" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UCB;Solo-founder+%26+dev+of+FluxoF%C3%A1cil+(live+SaaS);Python+%C2%B7+Flask+%C2%B7+PostgreSQL;Open+to+Backend+%2F+Full+Stack+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UCB;Solo+founder+%26+dev+of+FluxoF%C3%A1cil+(live+SaaS);Python+%C2%B7+Flask+%C2%B7+PostgreSQL;Open+to+Backend+%2F+Full+Stack+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,9 +19,9 @@
 
 ## About
 
-I'm an 18-year-old Computer Science student at **Universidade Católica de Brasília**, and the sole developer behind **[FluxoFácil](https://github.com/s4daniel7/fluxofacil-landing)** — a multi-tenant financial SaaS platform running in production with real clients. I learn by shipping: instead of stopping at tutorials, I turn ideas into deployed products, then keep refactoring them toward professional standards.
+I'm an 18-year-old Computer Science student at **Universidade Católica de Brasília**, and the sole developer behind **[FluxoFácil](https://github.com/s4daniel7/fluxofacil-landing)**, a multi-tenant financial SaaS platform running in production with real clients. I learn by shipping. Instead of stopping at tutorials, I turn ideas into deployed products, then keep refining them toward professional standards.
 
-Right now I'm focused on backend engineering — APIs, architecture, databases — with a growing interest in applying AI to real products. I'm looking for my first opportunity as a **Backend / Full Stack Developer**.
+Right now I'm focused on backend engineering: APIs, architecture, databases. I also have a growing interest in applying AI to real products. I'm looking for my first opportunity as a **Backend / Full Stack Developer**.
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ Right now I'm focused on backend engineering — APIs, architecture, databases �
 **What I'm doing**
 - 🏗️ Running FluxoFácil in production, solo
 - 🎓 Studying CS at UCB (1st semester)
-- 🔐 Hardening my projects' security & architecture
+- 🔐 Hardening my projects' security and architecture
 - 🌍 Preparing for an international career
 
 </td>
@@ -39,7 +39,7 @@ Right now I'm focused on backend engineering — APIs, architecture, databases �
 **What drives me**
 - Real users over perfect demos
 - Clean, readable, tested code
-- Understanding the *why*, not just the *how*
+- Understanding the why, not just the how
 - Iterating fast, shipping often
 
 </td>
@@ -69,7 +69,7 @@ Right now I'm focused on backend engineering — APIs, architecture, databases �
 </div>
 
 <div align="center">
-<sub>AI-assisted workflow — Claude, Claude Code &amp; Antigravity as part of how I build and ship</sub>
+<sub>I use Claude, Claude Code and Antigravity as part of how I build and ship</sub>
 </div>
 
 <br/>
@@ -81,7 +81,7 @@ Right now I'm focused on backend engineering — APIs, architecture, databases �
 <td width="50%" valign="top">
 <h3>💰 FluxoFácil</h3>
 
-Multi-tenant financial management SaaS — cash flow, dashboards, inventory, expenses and reports for small businesses. **Live, in production, with real clients.**
+Multi-tenant financial management SaaS for cash flow, dashboards, inventory, expenses and reports for small businesses. Live, in production, with real clients.
 
 <code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>PWA</code>
 
@@ -116,7 +116,7 @@ A clean, modern task management app focused on a simple, intuitive interface for
 <td width="50%" valign="top">
 <h3>🤖 Finance AI <sup><code>WIP</code></sup></h3>
 
-An intelligent financial system exploring how applied AI can surface smarter insights for personal and business finance.
+An intelligent financial system exploring how applied AI can surface better insights for personal and business finance.
 
 <code>Python</code> <code>Flask</code> <code>AI/ML</code>
 
@@ -166,7 +166,7 @@ No activity tracked
 </p>
 
 
-<!-- Discord presence — requires a Lanyard-connected Discord account.
+<!-- Discord presence. Requires a Lanyard-connected Discord account.
 <div align="center"><img src="https://lanyard-profile-readme.vercel.app/api/DISCORD_USER_ID?theme=dark&bg=0D1117" /></div>
 -->
 
@@ -187,9 +187,9 @@ No activity tracked
 
 ## 2026 Roadmap
 
-- [x] Ship a real SaaS product end-to-end — **FluxoFácil**
+- [x] Ship a real SaaS product end to end: **FluxoFácil**
 - [ ] Land my first Backend / Full Stack role
-- [ ] Bring FluxoFácil's security & architecture to production-grade standards
+- [ ] Bring FluxoFácil's security and architecture to production grade standards
 - [ ] Learn Docker and containerize my projects
 - [ ] Learn cloud fundamentals on AWS
 - [ ] Ship a real feature powered by applied AI
@@ -198,13 +198,13 @@ No activity tracked
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* (John Johnson)
 
 <br/>
 
 <div align="center">
 
-**Open to Backend / Full Stack opportunities — let's talk.**
+**Open to Backend / Full Stack opportunities. Let's talk.**
 
 <a href="https://linkedin.com/in/s4daniel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/s4daniel7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -215,11 +215,11 @@ No activity tracked
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
 <!--
-🐍 SNAKE ANIMATION — ONE-TIME SETUP (do this in the s4daniel7/s4daniel7 repo)
+🐍 SNAKE ANIMATION, ONE-TIME SETUP (do this in the s4daniel7/s4daniel7 repo)
 
 1. Create the file .github/workflows/snake.yml with the content below.
 2. Push it to the default branch. It runs once immediately and then daily at 00:00 UTC.
-3. It writes to a branch called "output" — that's what the <img> above points to.
+3. It writes to a branch called "output" (that's what the <img> above points to).
 
 --- .github/workflows/snake.yml ---
 name: Generate Snake
