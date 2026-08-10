@@ -151,11 +151,7 @@ An intelligent financial system exploring how applied AI can surface better insi
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   54 mins               ███████████▒░░░░░░░░░░░░░   45.43 %
-Python       23 mins               █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Markdown     16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Git Config   9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Other        9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
